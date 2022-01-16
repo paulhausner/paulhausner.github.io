@@ -2,10 +2,17 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: During my time as a master student I am employed as a Teaching Assistant at the IT department of Uppsala University.
+years: [2020, 2021, 2022]
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<div class="publications">
+  <h2 class="year">2022</h2>
+  {% include course.html %}
+</div>
 
-Organize your courses by years, topics, or universities, however you like!
+<div class="publications">
+  <h2 class="year">2021</h2>
+  {% include course.html %}
+</div>
