@@ -9,7 +9,6 @@ group :jekyll_plugins do
     gem 'jekyll-imagemagick'
     gem 'jekyll-paginate-v2'
     gem 'jekyll-scholar'
-    gem 'jekyll-sitemap'
     gem 'jekyll-target-blank'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
