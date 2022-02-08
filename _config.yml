@@ -149,17 +149,10 @@ plugins:
   - jekyll-imagemagick
   - jekyll-paginate-v2
   - jekyll/scholar
-  - jekyll-sitemap
   - jekyll-target-blank
   - jekyll-twitter-plugin
   - jemoji
 
-# Sitemap settings
-defaults:
-  - scope:
-      path:            "assets/**/*.*"
-    values:
-      sitemap:         true
 # Extras
 github: [metadata]
 
