@@ -9,15 +9,15 @@ nav: true
 <div class="publications">
   <h2 class="year">2022</h2>
   <ol class="bibliography">
-    <li>Digital Imaging Systems (ongoing)</li>
-    <li>Computer Intensive Statistics and Data Mining (ongoing)</li>
+    <li>Applied Linear Algebra for Data Science (ongoing)</li>
+    <li>Digital Imaging Systems (7.5 credits)</li>
   </ol>
 </div>
 
 <div class="publications">
   <h2 class="year">2021</h2>
   <ol class="bibliography">
-    <li>Convex Optimization (PhD level course, ongoing)</li>
+    <li>Convex Optimization (PhD level course, 10 credits)</li>
     <li>Reinforcement Learning (7.5 credits)</li>
     <li>Theoretical Foundations of Data Science (7.5 credits)</li>
     <li>Deep Learning for Image Analysis (7.5 credits)</li>

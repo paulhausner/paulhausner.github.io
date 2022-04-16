@@ -36,7 +36,7 @@ nav: true
   </div>
   <div class="row">
     <div class="col-sm-8">
-      <div>Teaching Assistant (Amanuens), HT21</div>
+      <div>Teaching Assistant (Amanuens), VT21 and HT21</div>
     </div>
   </div>
   </li>
@@ -49,21 +49,6 @@ nav: true
   <div class="row">
     <div class="col-sm-8">
       <div>Teaching Assistant (Amanuens), HT21</div>
-    </div>
-  </div>
-  </li>
-  <li>
-  <div class="row">
-    <div class="col-sm-8">
-      <div>
-      <div class="title">Statistical Machine Learning</div>
-      </div>
-    </div>
-
-  </div>
-  <div class="row">
-    <div class="col-sm-8">
-      <div>Teaching Assistant (Amanuens), VT21</div>
     </div>
   </div>
   </li>

@@ -17,8 +17,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a last year master student at Uppsala University majoring in Computer Science.
-My studies focus on Artificial Intelligence and Machine Learning.
+Currently, I am taking freestanding master and graduate level courses offered at Uppsala Unviersity. I am interested in Machine Learning, Data Driven Otpimization and Explainable Artificial Intelligence.
 
-Currently I am writing my master thesis about explainable product configuration for telecom products at the Cognitive Automation Lab at Ericsson Research (AI-MR).
-I am also part-time employed at Uppsala University working as a Teaching Assistant for the Division of Systems and Control.
+I recieved a MSc in Computer Science from Uppsala University in 2022. Prior to that I revieved my undergraduate degree from the University of Passau, Germany in 2019.
