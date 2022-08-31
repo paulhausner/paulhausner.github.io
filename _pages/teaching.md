@@ -14,7 +14,19 @@ nav_order: 5
     <li>
       <div class="row">
       <div class="col-sm-8">
-        <div class="title">Statistical Machine Learning</div>
+        <div class="title"><a href="https://www.uu.se/en/admissions/master/selma/kursplan/?kKod=1TD389">Scientific Visualization</a></div>
+      </div>
+      </div>
+      <div class="row">
+      <div class="col-sm-8">
+        <div>Teaching Assistant, HT22</div>
+      </div>
+      </div>
+    </li>
+    <li>
+      <div class="row">
+      <div class="col-sm-8">
+        <div class="title"><a href="https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kpid=41831&lasar=22%2F23&typ=1">Statistical Machine Learning</a></div>
       </div>
       </div>
       <div class="row">
@@ -44,7 +56,7 @@ nav_order: 5
   <li>
   <div class="row">
     <div class="col-sm-8">
-      <div class="title">Advanced Probabilistic Machine Learning</div>
+      <div class="title"><a href="https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kpid=45074&lasar=22%2F23&typ=1">Advanced Probabilistic Machine Learning</a></div>
     </div>
   </div>
   <div class="row">
@@ -62,7 +74,7 @@ nav_order: 5
     <li>
       <div class="row">
       <div class="col-sm-8">
-        <div class="title">Combinatorial Optimisation using Constraint Programming</div>
+        <div class="title"><a href="https://www.uu.se/en/admissions/master/selma/kursplan/?kKod=1DL441">Combinatorial Optimisation using Constraint Programming</a></div>
       </div>
       </div>
       <div class="row">
