@@ -19,7 +19,7 @@ nav_order: 5
       </div>
       <div class="row">
       <div class="col-sm-8">
-        <div>Teaching Assistant, HT22</div>
+        <div>Teaching Assistant and Lecturer, HT22</div>
       </div>
       </div>
     </li>
@@ -44,7 +44,7 @@ nav_order: 5
   <li>
   <div class="row">
     <div class="col-sm-8">
-      <div class="title">Statistical Machine Learning</div>
+      <div class="title"><a href="https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kpid=41831&lasar=22%2F23&typ=1">Statistical Machine Learning</a></div>
     </div>
   </div>
   <div class="row">
