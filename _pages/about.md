@@ -7,7 +7,7 @@ subtitle: <a href='https://www.it.uu.se/'>Uppsala University</a>. Department for
 profile:
   align: right
   image: prof_pic.jpg
-  image_cicular: false # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
     <p>Room 103164, House 10</p>
     <p>Ångströmlaboratoriet</p>
