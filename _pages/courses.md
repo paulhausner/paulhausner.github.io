@@ -9,9 +9,61 @@ nav: true
 <div class="publications">
   <h2 class="year">Graduate</h2>
   <ol class="bibliography">
-    <li>Learning Feature Representation (ongoing, 6 credits, <a href='https://wasp-sweden.org/graduate-school/'>WASP graduate school</a>)</li>
-    <li><a href="https://people.kth.se/~crro/Math_Methods2022/Math_Methods.html">Mathematical Methods in Signals, Systems and Control</a> (ongoing, 8 credits)</li>
-    <li><a href="https://uppsala.instructure.com/courses/52871">Convex Optimization</a> (7+3 credits)</li>
+    <li>
+      <div class="row">
+      <div class="col-sm-8">
+        <div class="title"><a href="https://uvadl2c.github.io/">Deep Learning 2</a> (upcoming)</div>
+      </div>
+      </div>
+      <div class="row">
+      <div class="col-sm-8">
+        <div>University of Amsterdam (UvA), Machine Learning Lab (AMLab)</div>
+      </div>
+      </div>
+    </li>
+    <li>
+      <div class="row">
+      <div class="col-sm-8">
+        <div class="title">Artificial Intelligence and Machine Learning (ongoing)</div>
+      </div>
+      </div>
+      <div class="row">
+      <div class="col-sm-8">
+        <div><a href='https://wasp-sweden.org/graduate-school/'>WASP graduate school</a></div>
+      </div>
+      </div>
+    </li>
+    <li>
+      <div class="row">
+      <div class="col-sm-8">
+        <div class="title">Learning Feature Representation</div>
+      </div>
+      </div>
+      <div class="row">
+      <div class="col-sm-8">
+        <div><a href='https://wasp-sweden.org/graduate-school/'>WASP graduate school</a></div>
+      </div>
+      </div>
+    </li>
+    <li>
+      <div class="row">
+      <div class="col-sm-8">
+        <div class="title"><a href="https://people.kth.se/~crro/Math_Methods2022/Math_Methods.html">Mathematical Methods in Signals, Systems and Control</a></div>
+      </div>
+      </div>
+      <div class="row">
+      <div class="col-sm-8">
+        <div><a href="https://www.kth.se/en/eecs/skolan-for-elektroteknik-och-datavetenskap-1.760855">KTH Stockholm (EECS) </a></div>
+      </div>
+      </div>
+    </li>
+    <li>
+      <div class="row">
+      <div class="col-sm-8">
+        <div class="title"><a href="https://uppsala.instructure.com/courses/52871">Convex Optimization</a></div>
+      </div>
+      </div>
+    </li>
   </ol>
 </div>
 

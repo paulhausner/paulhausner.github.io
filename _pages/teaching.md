@@ -9,6 +9,24 @@ nav_order: 5
 ---
 
 <div class="publications">
+  <h2 class="year">2023</h2>
+  <ol class="bibliography">
+    <li>
+      <div class="row">
+      <div class="col-sm-8">
+        <div class="title"><a href="https://www.uu.se/en/admissions/freestanding-courses/course/?kKod=1RT747&typ=1">Reinforcement Learning</a> (upcoming)</div>
+      </div>
+      </div>
+      <div class="row">
+      <div class="col-sm-8">
+        <div>Teaching Assistant, VT23</div>
+      </div>
+      </div>
+    </li>
+  </ol>
+</div>
+
+<div class="publications">
   <h2 class="year">2022</h2>
   <ol class="bibliography">
     <li>
