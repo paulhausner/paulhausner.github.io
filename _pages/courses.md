@@ -12,12 +12,12 @@ nav: true
     <li>
       <div class="row">
       <div class="col-sm-8">
-        <div class="title"><a href="https://uvadl2c.github.io/">Deep Learning 2</a> (upcoming)</div>
+        <div class="title">Large scale optimization (upcoming)</div>
       </div>
       </div>
       <div class="row">
       <div class="col-sm-8">
-        <div>University of Amsterdam (UvA), Machine Learning Lab (AMLab)</div>
+        <div>Uppsala University</div>
       </div>
       </div>
     </li>
@@ -61,6 +61,11 @@ nav: true
       <div class="row">
       <div class="col-sm-8">
         <div class="title"><a href="https://uppsala.instructure.com/courses/52871">Convex Optimization</a></div>
+      </div>
+      </div>
+      <div class="row">
+      <div class="col-sm-8">
+        <div>Uppsala University</div>
       </div>
       </div>
     </li>

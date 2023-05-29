@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.it.uu.se/'>Uppsala University</a>. Department for Information Technology. PhD Student.
+subtitle: <a href='https://www.it.uu.se/'>Uppsala University</a>. Department of Information Technology. PhD Student.
 
 profile:
   align: right

@@ -12,9 +12,33 @@ nav_order: 5
   <h2 class="year">2023</h2>
   <ol class="bibliography">
     <li>
+  <div class="row">
+    <div class="col-sm-8">
+      <div class="title"><a href="https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kpid=45074&lasar=22%2F23&typ=1">Advanced Probabilistic Machine Learning</a> (upcoming)</div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-8">
+      <div>Teaching Assistant, HT23</div>
+    </div>
+  </div>
+  </li>
+    <li>
       <div class="row">
       <div class="col-sm-8">
-        <div class="title"><a href="https://www.uu.se/en/admissions/freestanding-courses/course/?kKod=1RT747&typ=1">Reinforcement Learning</a> (upcoming)</div>
+        <div class="title"><a href="https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kpid=41831&lasar=22%2F23&typ=1">Statistical Machine Learning</a> (upcoming)</div>
+      </div>
+      </div>
+      <div class="row">
+      <div class="col-sm-8">
+        <div>Teaching Assistant, HT23 </div>
+      </div>
+      </div>
+    </li>
+    <li>
+      <div class="row">
+      <div class="col-sm-8">
+        <div class="title"><a href="https://www.uu.se/en/admissions/freestanding-courses/course/?kKod=1RT747&typ=1">Reinforcement Learning</a></div>
       </div>
       </div>
       <div class="row">
