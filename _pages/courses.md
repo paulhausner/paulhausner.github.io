@@ -4,6 +4,7 @@ title: courses
 permalink: /courses/
 description: A growing list of course I took.
 nav: true
+nav_order: 2
 ---
 
 <div class="publications">
