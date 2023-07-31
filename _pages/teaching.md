@@ -14,7 +14,7 @@ nav_order: 5
     <li>
   <div class="row">
     <div class="col-sm-8">
-      <div class="title"><a href="https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kpid=45074&lasar=22%2F23&typ=1">Advanced Probabilistic Machine Learning</a> (upcoming)</div>
+      <div class="title"><a href="https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kpid=45074&lasar=22%2F23&typ=1">Advanced Probabilistic Machine Learning</a></div>
     </div>
   </div>
   <div class="row">
@@ -26,7 +26,7 @@ nav_order: 5
     <li>
       <div class="row">
       <div class="col-sm-8">
-        <div class="title"><a href="https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kpid=41831&lasar=22%2F23&typ=1">Statistical Machine Learning</a> (upcoming)</div>
+        <div class="title"><a href="https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kpid=41831&lasar=22%2F23&typ=1">Statistical Machine Learning</a></div>
       </div>
       </div>
       <div class="row">

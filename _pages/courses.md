@@ -13,7 +13,7 @@ nav_order: 2
     <li>
       <div class="row">
       <div class="col-sm-8">
-        <div class="title">Large scale optimization (upcoming)</div>
+        <div class="title">Large-scale optimization</div>
       </div>
       </div>
       <div class="row">
@@ -25,7 +25,7 @@ nav_order: 2
     <li>
       <div class="row">
       <div class="col-sm-8">
-        <div class="title">Artificial Intelligence and Machine Learning (ongoing)</div>
+        <div class="title">Artificial Intelligence and Machine Learning</div>
       </div>
       </div>
       <div class="row">
