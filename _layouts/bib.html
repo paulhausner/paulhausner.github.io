@@ -24,6 +24,12 @@
             <abbr class="badge">{{entry.abbr}}</abbr>
           {%- endif -%}
         {%- endif -%}
+        {% if entry.workshop %}
+          <wksp class="badge award">Workshop</wksp>
+        {% endif %}
+        {% if entry.challenge %}
+          <award class="badge award">Challenge</award>
+        {% endif %}
         </div>
 
         <!-- Entry bib key -->

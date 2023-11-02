@@ -23,3 +23,5 @@ Since August 2022, I am PhD student in Machine Learning working at the Division 
 My supervisors are <a href='https://jsjol.github.io/'>Jens Sjölund</a> (main) and <a href='https://www.kth.se/profile/ozan'>Ozan Öktem</a> from <a href='https://www.kth.se'>KTH</a>, Stockholm. My research is supported by the Wallenberg AI, Autonomous Systems and Software Program (<a href='https://wasp-sweden.org/'>WASP</a>) funded by the Knut and Alice Wallenberg Foundation.
 
 I recieved a MSc in Computer Science from Uppsala University in 2022. Prior to that I revieved my BSc degree from the University of Passau, Germany in 2019. In my free time I enjoy reading <a href="\books">books</a> and playing basketball.
+
+**My office hours are Tuesday and Friday 2pm-3pm.**
