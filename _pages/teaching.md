@@ -9,6 +9,36 @@ nav_order: 5
 ---
 
 <div class="publications">
+  <h2 class="year">2024</h2>
+  <ol class="bibliography">
+    <li>
+  <div class="row">
+    <div class="col-sm-8">
+      <div class="title"><a href="https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kpid=45074&lasar=22%2F23&typ=1">Advanced Probabilistic Machine Learning</a></div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-8">
+      <div>Teaching Assistant, upcoming HT24</div>
+    </div>
+  </div>
+  </li>
+    <li>
+      <div class="row">
+      <div class="col-sm-8">
+        <div class="title"><a href="https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kpid=41831&lasar=22%2F23&typ=1">Statistical Machine Learning</a></div>
+      </div>
+      </div>
+      <div class="row">
+      <div class="col-sm-8">
+        <div>Teaching Assistant, upcoming HT24 </div>
+      </div>
+      </div>
+    </li>
+  </ol>
+</div>
+
+<div class="publications">
   <h2 class="year">2023</h2>
   <ol class="bibliography">
     <li>
