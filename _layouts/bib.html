@@ -30,6 +30,9 @@
         {% if entry.challenge %}
           <award class="badge award">Challenge</award>
         {% endif %}
+        {% if entry.preprint %}
+          <award class="badge award">Preprint</award>
+        {% endif %}
         </div>
 
         <!-- Entry bib key -->
@@ -189,6 +192,9 @@
           {%- endif %}
           {%- if entry.website %}
             <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
+          {%- endif %}
+          {%- if entry.openreview %}
+            <a href="{{ entry.openreview }}" class="btn btn-sm z-depth-0" role="button">Openreview</a>
           {%- endif %}
           </div>
           {% if site.badges %}

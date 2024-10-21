@@ -2,14 +2,14 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: During my time as a master student I am employed as a Teaching Assistant at the IT department of Uppsala University.
+description: During my time as a master student I was employed as a Teaching Assistant at the IT department of Uppsala University. As part of my PhD education I am working 20% on teaching duties.
 years: [2020, 2021, 2022]
 nav: true
 nav_order: 5
 ---
 
 <div class="publications">
-  <h2 class="year">2024</h2>
+  <h2 class="year">&nbsp;</h2>
   <ol class="bibliography">
     <li>
   <div class="row">
@@ -19,7 +19,7 @@ nav_order: 5
   </div>
   <div class="row">
     <div class="col-sm-8">
-      <div>Teaching Assistant, upcoming HT24</div>
+      <div>Teaching Assistant, 2021-present </div>
     </div>
   </div>
   </li>
@@ -31,37 +31,10 @@ nav_order: 5
       </div>
       <div class="row">
       <div class="col-sm-8">
-        <div>Teaching Assistant, upcoming HT24 </div>
+        <div>Teaching Assistant, 2021-present </div>
       </div>
-      </div>
-    </li>
-  </ol>
-</div>
-
-<div class="publications">
-  <h2 class="year">2023</h2>
-  <ol class="bibliography">
-    <li>
-  <div class="row">
-    <div class="col-sm-8">
-      <div class="title"><a href="https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kpid=45074&lasar=22%2F23&typ=1">Advanced Probabilistic Machine Learning</a></div>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-sm-8">
-      <div>Teaching Assistant, HT23</div>
-    </div>
-  </div>
-  </li>
-    <li>
-      <div class="row">
       <div class="col-sm-8">
-        <div class="title"><a href="https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kpid=41831&lasar=22%2F23&typ=1">Statistical Machine Learning</a></div>
-      </div>
-      </div>
-      <div class="row">
-      <div class="col-sm-8">
-        <div>Teaching Assistant, HT23 </div>
+        <div>Lecturer, 2024 </div>
       </div>
       </div>
     </li>
@@ -73,16 +46,10 @@ nav_order: 5
       </div>
       <div class="row">
       <div class="col-sm-8">
-        <div>Teaching Assistant, VT23</div>
+        <div>Teaching Assistant, 2023</div>
       </div>
       </div>
     </li>
-  </ol>
-</div>
-
-<div class="publications">
-  <h2 class="year">2022</h2>
-  <ol class="bibliography">
     <li>
       <div class="row">
       <div class="col-sm-8">
@@ -91,58 +58,10 @@ nav_order: 5
       </div>
       <div class="row">
       <div class="col-sm-8">
-        <div>Teaching Assistant and Lecturer, HT22</div>
+        <div>Teaching Assistant and Lecturer, 2022</div>
       </div>
       </div>
     </li>
-    <li>
-      <div class="row">
-      <div class="col-sm-8">
-        <div class="title"><a href="https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kpid=41831&lasar=22%2F23&typ=1">Statistical Machine Learning</a></div>
-      </div>
-      </div>
-      <div class="row">
-      <div class="col-sm-8">
-        <div>Teaching Assistant (Amanuens), VT22</div>
-      </div>
-      </div>
-    </li>
-  </ol>
-</div>
-
-<div class="publications">
-  <h2 class="year">2021</h2>
-  <ol class="bibliography">
-  <li>
-  <div class="row">
-    <div class="col-sm-8">
-      <div class="title"><a href="https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kpid=41831&lasar=22%2F23&typ=1">Statistical Machine Learning</a></div>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-sm-8">
-      <div>Teaching Assistant (Amanuens), VT21 and HT21</div>
-    </div>
-  </div>
-  </li>
-  <li>
-  <div class="row">
-    <div class="col-sm-8">
-      <div class="title"><a href="https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kpid=45074&lasar=22%2F23&typ=1">Advanced Probabilistic Machine Learning</a></div>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-sm-8">
-      <div>Teaching Assistant (Amanuens), HT21</div>
-    </div>
-  </div>
-  </li>
-  </ol>
-</div>
-
-<div class="publications">
-  <h2 class="year">2020</h2>
-  <ol class="bibliography">
     <li>
       <div class="row">
       <div class="col-sm-8">
@@ -151,7 +70,7 @@ nav_order: 5
       </div>
       <div class="row">
       <div class="col-sm-8">
-        <div>Teaching Assistant (Amanuens), HT20</div>
+        <div>Teaching Assistant (Amanuens), 2020</div>
       </div>
       </div>
     </li>
