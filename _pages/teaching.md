@@ -11,6 +11,18 @@ nav_order: 5
 <div class="publications">
   <h2 class="year">&nbsp;</h2>
   <ol class="bibliography">
+  <li>
+  <div class="row">
+    <div class="col-sm-8">
+      <div class="title"><a href="https://www.uu.se/en/study/syllabus?query=49438">Deep Learning</a></div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-8">
+      <div>Lecturer, 2025-present </div>
+    </div>
+  </div>
+  </li>
     <li>
   <div class="row">
     <div class="col-sm-8">
@@ -31,7 +43,7 @@ nav_order: 5
       </div>
       <div class="row">
       <div class="col-sm-8">
-        <div>Teaching Assistant, 2021-present </div>
+        <div>Teaching Assistant, 2021-2024 </div>
       </div>
       <div class="col-sm-8">
         <div>Lecturer, 2024 </div>
@@ -46,7 +58,7 @@ nav_order: 5
       </div>
       <div class="row">
       <div class="col-sm-8">
-        <div>Teaching Assistant, 2023</div>
+        <div>Teaching Assistant, 2023 & 2025 </div>
       </div>
       </div>
     </li>
