@@ -5,7 +5,7 @@ title: teaching
 description: During my time as a master student I was employed as a Teaching Assistant at the IT department of Uppsala University. As part of my PhD education I am working 20% on teaching duties.
 years: [2020, 2021, 2022]
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 <div class="publications">
