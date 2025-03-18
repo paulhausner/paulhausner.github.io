@@ -26,7 +26,7 @@ nav_order: 6
     <li>
   <div class="row">
     <div class="col-sm-8">
-      <div class="title"><a href="https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kpid=45074&lasar=22%2F23&typ=1">Advanced Probabilistic Machine Learning</a></div>
+      <div class="title"><a href="https://www.uu.se/en/study/syllabus?query=43945">Advanced Probabilistic Machine Learning</a></div>
     </div>
   </div>
   <div class="row">
@@ -38,7 +38,7 @@ nav_order: 6
     <li>
       <div class="row">
       <div class="col-sm-8">
-        <div class="title"><a href="https://www.uu.se/en/admissions/freestanding-courses/course-syllabus/?kpid=41831&lasar=22%2F23&typ=1">Statistical Machine Learning</a></div>
+        <div class="title"><a href="https://www.uu.se/en/study/course?query=1RT700">Statistical Machine Learning</a></div>
       </div>
       </div>
       <div class="row">
@@ -53,7 +53,7 @@ nav_order: 6
     <li>
       <div class="row">
       <div class="col-sm-8">
-        <div class="title"><a href="https://www.uu.se/en/admissions/freestanding-courses/course/?kKod=1RT747&typ=1">Reinforcement Learning</a></div>
+        <div class="title"><a href="https://www.uu.se/en/study/course?query=1RT745">Reinforcement Learning</a></div>
       </div>
       </div>
       <div class="row">
@@ -65,7 +65,7 @@ nav_order: 6
     <li>
       <div class="row">
       <div class="col-sm-8">
-        <div class="title"><a href="https://www.uu.se/en/admissions/master/selma/kursplan/?kKod=1TD389">Scientific Visualization</a></div>
+        <div class="title">Scientific Visualization</div>
       </div>
       </div>
       <div class="row">
@@ -77,7 +77,7 @@ nav_order: 6
     <li>
       <div class="row">
       <div class="col-sm-8">
-        <div class="title"><a href="https://www.uu.se/en/admissions/master/selma/kursplan/?kKod=1DL441">Combinatorial Optimisation using Constraint Programming</a></div>
+        <div class="title">Combinatorial Optimisation using Constraint Programming</div>
       </div>
       </div>
       <div class="row">
