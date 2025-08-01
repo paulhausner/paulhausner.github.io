@@ -12,6 +12,10 @@ profile:
     <p>Room 103164, House 10</p>
     <p>Ångströmlaboratoriet</p>
     <p>Uppsala University</p>
+    <p>(on leave during HT26)</p>
+    <br>
+    <p>113 - Sherrerd Hall</p>
+    <p>Princeton University</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
